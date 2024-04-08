@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Andrew Moss.
 - 👀 I am interested in coding, constructing websites and creating applications.
-- 🌱 I am experiened in Java, C++, Python, and learning javascript and React Native for application developement. 
-- 💞️ I am looking to work in software development or back-end application developement. 
-- 💞️ I am experienced in learning languages and different design processes with guidance from senior mentors.
+- 🌱 I am experiened in JavaScript, C++, Python, and learning React for application developement. 
+- 💞️ I am looking to work as an SDET or Software Development. 
+- 💞️ I am experienced in learning languages and different design processes.
 - 📫 How to reach me: preffered email: mossandrew489@gmail.com
